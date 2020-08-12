@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "restvehicular"
+    }
+  },
+  "defaultProject": "restvehicular",
+  "cli": {
+    "analytics": "18f425fc-880a-4294-b7a6-d128154d4072"
+  }
 }
